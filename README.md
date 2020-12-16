@@ -1,2 +1,2 @@
 # ML-ALGOS
-NAIVE BAYES IMPLEMENTED FROM SCRATCH USING PYTHON 
+naive bayes, neural network, knn implemented from scratch sing python
